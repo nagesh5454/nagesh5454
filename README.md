@@ -1,7 +1,7 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nagesh Mane</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">, I am Nagesh Mane</h1>
 <h3 align="center">IT Engineering student studying in India</h3>
 <p align="center">
-<img width="100%" alt="GIF" src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif" />
+<img width="100%" alt="GIF" src="https://www.rap-up.com/wp-content/uploads/2022/04/sale_205209_primary_image.jpg" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
