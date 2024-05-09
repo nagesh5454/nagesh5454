@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">, I am Nagesh Mane</h1>
 <h3 align="center">IT Engineering student studying in India</h3>
 <p align="center">
-<img width="100%" height="40%" alt="GIF" src="[https://www.rap-up.com/wp-content/uploads/2022/04/sale_205209_primary_image.jpg](https://woz-u.com/wp-content/uploads/2020/02/What-Do-Software-Engineers-Do-WOZ-1-min.png)" />
+<img width="100%" height="40%" alt="GIF" src="https://www.rap-up.com/wp-content/uploads/2022/04/sale_205209_primary_image.jpg" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
