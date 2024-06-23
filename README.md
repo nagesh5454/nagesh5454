@@ -19,7 +19,7 @@
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-- 🌱 I’m currently Woring **Data Structures and Algorithms**.
+- 🌱 I’m currently Woring **Data Structures and Algorithms and MERN Stack Web Development**.
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**.
 - 💬 Ask me about anything, I am happy to help.
