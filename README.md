@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">, I am Nagesh Mane</h1>
-<h3 align="center">Software Engineering student </h3>
+<!-- <h3 align="center">Software Engineering student </h3> -->
 <p align="center">
 <img width="100%" height="5%" alt="GIF" src="GFG.png" />
 </p>
