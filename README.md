@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Raut</h1>
+<h1 align="center">Hi 👋, I'm Nagesh Mane</h1>
 <!-- <h3 align="center">Software Engineering student </h3> -->
 <p align="center">
 <img width="100%" height="5%" alt="GIF" src="LinkedinBG.png" />
