@@ -62,11 +62,12 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 <!--
+![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
