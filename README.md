@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagesh Mane</h1>
 <!-- <h3 align="center">Software Engineering student </h3> -->
 <p align="center">
-<img width="100%" height="5%" alt="GIF" src="LinkedinBG.png" />
+<img width="100%" height="5%" alt="GIF" src="https://images.app.goo.gl/nuGs6P2x3DafcYDq8" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
